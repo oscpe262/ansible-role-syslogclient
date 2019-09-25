@@ -1,0 +1,9 @@
+## roles/ansible-role-syslogclient/defaults/main.yml
+# vim:ft=yaml.ansible:
+---
+syslogclientServer: localhost
+syslogserverListenPort: 514
+syslogserverPackages: ["rsyslog"]
+syslogserverService: rsyslog
+
+...
