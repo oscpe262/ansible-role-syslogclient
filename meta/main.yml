@@ -1,4 +1,5 @@
 galaxy_info:
+  role_name: syslogclient
   author: Oscar Petersson
   description: A role for setting up 
 
@@ -29,6 +30,9 @@ galaxy_info:
   galaxy_tags:
     - rhel
     - redhat
+    - syslog
+    - syslogclient
+    - rsyslog
 
 dependencies: []
 allow_duplicates: no
