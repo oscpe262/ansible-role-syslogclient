@@ -1,7 +1,7 @@
 galaxy_info:
   role_name: syslogclient
   author: Oscar Petersson
-  description: A role for setting up 
+  description: A role for setting up syslog clients
 
   license: MIT
 
